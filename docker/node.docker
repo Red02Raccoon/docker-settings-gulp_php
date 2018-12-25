@@ -1,0 +1,6 @@
+FROM node:8.6-alpine
+
+
+#CMD ["npm", "install"]
+
+WORKDIR /var/www
